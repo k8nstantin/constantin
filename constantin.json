@@ -1,0 +1,637 @@
+{
+  "basics": {
+    "name": "Constantin A. Alexander",
+    "label": "Looking for enthusiasts/pioneers in  automotive/ev data gathering/processing/analysis/ML ",
+    "picture": "",
+    "email": "constantin@krolm.com",
+    "phone": "",
+    "website": "",
+    "summary": "Please join our meetups and learn about HTAP databases, hybrid workload, distributed, K8s \nhttps://www.meetup.com/San-Francisco-TiDB-Meetup\nhttps://www.meetup.com/Los-Angeles-TiDB-Meetup\nhttps://www.meetup.com/New-York-TiDB-Meetup\nhttps://www.meetup.com/Miami-TiDB-Meetup/\n",
+    "location": {
+      "countryCode": "US",
+      "address": "Los Angeles, California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ACoAAAA4DGgBE3C84-JhSmxqySHMUgf02xsacEc",
+        "url": "https://www.linkedin.com/in/ACoAAAA4DGgBE3C84-JhSmxqySHMUgf02xsacEc/"
+      },
+      {
+        "network": "Twitter",
+        "username": "SpringbokSQL",
+        "url": "https://twitter.com/SpringbokSQL"
+      },
+      {
+        "network": "Twitter",
+        "username": "constantin_sql",
+        "url": "https://twitter.com/constantin_sql"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Krolm",
+      "endDate": "",
+      "highlights": [],
+      "position": "catalyst ",
+      "startDate": "2020-06-30",
+      "summary": "founder at Krolm\n\nWe are poised to disrupt Streaming Data and ETL, no more Extraction, Transformation and Loading. Instead fluid and flexible Streaming Data Pipelines that fill data lakes. The data can be analyzed, enriched, governed,  filtered, ML, shared at any phase - from ingestion to  consumption. \nBuild Streaming Data Pipelines and Data Lakes in days, not months or years :-)\n\nJoin us - learn, develop, brainstorm, we are looking for:\n\ndjango developers \njava developers\naws experts \nalibaba cloud experts\nGCP experts",
+      "website": "https://www.linkedin.com/company/krolm/"
+    },
+    {
+      "company": "Telmate",
+      "endDate": "2018-04-30",
+      "highlights": [],
+      "position": "Database Architect",
+      "startDate": "2016-06-30",
+      "summary": "Database Architect at Telmate. \nDesigned and implemented  MySQL/MariaDB highly available databases architecture, MySQL on PCI Flash and zfs filesystem.\n\nDeployed ScaleArc databases load balancer for databases high availability, load balancing and performance. Multizone data center using replication for multi zone hight availability. \n\nAmazon AWS Cloud  databases architecture and deployment, Aurora and RDS. \nManaging PostgreSQL databases and MySQL databases and RDS/Aurora MySQL and PostgreSQL databases. Migration from Amazon RDS to Amazon Aurora. \n\nAmazon RedShift deployment.\nDesigned new reporting platform, implemented Pentaho ETL, Flydata for data replication.\n\nAmazon Snowflake DSS pilot",
+      "website": "https://www.linkedin.com/company/telmate/"
+    },
+    {
+      "company": "Walmart eCommerce",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "position": "MySQL Galera Architecture Project",
+      "startDate": "2015-12-31",
+      "summary": "MySQL Galera Architecture. MySQL Galera implementation. Galera Replication internal, MySQL/MariaDB internals, network topology, physical and logical architecture and deployment strategy.",
+      "website": "https://www.linkedin.com/company/walmartecommerce/"
+    },
+    {
+      "company": "SpringbokSQL",
+      "endDate": "2016-03-31",
+      "highlights": [],
+      "position": "Big Data Analytics",
+      "startDate": "2014-05-31",
+      "summary": "Designed MySQL and MariaDB database appliance. The appliance is based on PCI Flash devices from FusionIO for data storage and NVM (non volatile RAM) for logs storage, nvmfs filesystem. Transactional appliances delivered high performance database transaction synchronous and asynchronous data replication. \nDesigned DSS Decision support database appliance for data analytics. The analytics appliance designed using columnar data store and data compression. \n\nPostgreSQL and Postgres XL development, architecture, high availability and scalability.",
+      "website": "https://www.linkedin.com/company/springboksql/"
+    },
+    {
+      "company": "Ultimate Gaming",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "position": "Database Architect",
+      "startDate": "2013-10-31",
+      "summary": "Transactional Databases. Designed and deployed synchronously replicated transactional databases. Migrated the existing database infrastructure from  EMC storage to internal PCI Flash using Virident PCI Flash and xfs filesystem. New architecture achieved 99.999 databases uptime and eliminated replication lag. Deployed F5 Load balancers for databases reads balancing. \nReporting Databases. Redesigned DSS and reporting architecture. New architectures reduced  reports execution from several hours to several minutes delivering time sensitive reporting data. \nDesigned and deployed Cassandra configuration for gaming messaging replacing MySQL databases.",
+      "website": "https://www.linkedin.com/company/ultimate-gaming/"
+    },
+    {
+      "company": "AccelerationDB",
+      "endDate": "2014-05-31",
+      "highlights": [],
+      "position": "Database Architect",
+      "startDate": "2009-03-31",
+      "summary": "Silicon Valley MySQL Meet Up Users Group tonight MySQL 5.7 What is new and exciting and whats not. \n\nhttp://www.meetup.com/mysql-silicon-valley/events/161598012/",
+      "website": "https://www.linkedin.com/company/accelerationdb/"
+    },
+    {
+      "company": "Zuora",
+      "endDate": "2013-09-30",
+      "highlights": [],
+      "position": "Database Architect",
+      "startDate": "2013-06-30",
+      "summary": "Building scalable high performing MySQL infrastructure.",
+      "website": "https://www.linkedin.com/company/zuora/"
+    },
+    {
+      "company": "Adchemy",
+      "endDate": "2013-06-30",
+      "highlights": [],
+      "position": "Database Architect",
+      "startDate": "2012-05-31",
+      "summary": "MySQL databases architecture and management. Designed and implemented Continuent Tungsten for MySQL databases and PostgreXC cluster.",
+      "website": "https://www.linkedin.com/company/adchemy/"
+    },
+    {
+      "company": "Constant Contact",
+      "endDate": "2011-10-31",
+      "highlights": [],
+      "position": "MySQL Tungsten Replication Project",
+      "startDate": "2011-10-31",
+      "summary": "Installed and configured Continuent Tungsten Enterprise for MySQL 5.1. Configures Master/Master cross data center replication.",
+      "website": "https://www.linkedin.com/company/constant-contact/"
+    },
+    {
+      "company": "USVD, LLC",
+      "endDate": "2011-10-31",
+      "highlights": [],
+      "position": "MySQL NDB Cluster Deployment",
+      "startDate": "2011-07-31",
+      "summary": "MySQL NDB Cluster Architecture and Deployment. Designed architecture for MySQL 7.1 cluster deployment, installed and configured NDB cluster on Rhat platform. Migrated MySQL Cluster from 7.0 Ubuntu deployment with VIP HA to MySQL Cluster 7.1 with Barracuda Load Balancers on Rhat platform. Configured backup and recovery, developed deployment plan. Configured and deployed NDB cluster to cluster replication.",
+      "website": ""
+    },
+    {
+      "company": "Akiban Technologies",
+      "endDate": "2011-07-31",
+      "highlights": [],
+      "position": "Lead Database Architect",
+      "startDate": "2010-10-31",
+      "summary": "AkibanDB is a unique solution designed with Group Index concept. Designed and implemented product roadmap. Developed AkibanDB integration with open source databases – MySQL and MariaDB.\nDeployed AkibanDB at first customer site with fully integrated replication to open source databases – MySQL and PostgreSQL. \nAutomate schema optimization\nDistribute data across servers\nDistribute users across access nodes\nMaintain compatibility with existing SQL database applications",
+      "website": "https://www.linkedin.com/company/akiban-technologies/"
+    },
+    {
+      "company": "Apple Inc.",
+      "endDate": "2010-08-31",
+      "highlights": [],
+      "position": "Databases Architect",
+      "startDate": "2010-05-31",
+      "summary": "MySQL Databases Architect iAd platform",
+      "website": "https://www.linkedin.com/company/apple/"
+    },
+    {
+      "company": "Continuent",
+      "endDate": "2010-06-30",
+      "highlights": [],
+      "position": "Architect",
+      "startDate": "2009-12-31",
+      "summary": "Continuent www.continuent.com - Continuous Data Availability. We keep your databases online 24/7/365 - MySQL, Postgres Oracle. Our product Tungsten - is carrier grade solution to for databases uptime, data loss prevention, databases scaling and resource utilization optimization. Simply put Tungsten - is a data replication and data propagation software - that will keep your data online - guaranteed.",
+      "website": "https://www.linkedin.com/company/continuent/"
+    },
+    {
+      "company": "TriCore Solutions",
+      "endDate": "2010-04-30",
+      "highlights": [],
+      "position": "DRBD MySQL/Postgres Consulting",
+      "startDate": "2009-01-31",
+      "summary": "Implementing DRBD (for uninitiated Distributed Block Replication Device) and MySQL/Postgres or simply - configuring databases for HA environment using DRBD and Linux-HA project's Heartbeat.",
+      "website": "https://www.linkedin.com/company/tricore-solutions/"
+    },
+    {
+      "company": "HubSpot",
+      "endDate": "2009-12-31",
+      "highlights": [],
+      "position": "Managing MySQL Databases",
+      "startDate": "2009-07-31",
+      "summary": "MySQL database Architecture and Administration. Implemented multi-master replication, cluster management. Pentaho DW implementation and deployment.",
+      "website": "https://www.linkedin.com/company/hubspot/"
+    },
+    {
+      "company": "Online Buddies, Inc.",
+      "endDate": "2009-07-31",
+      "highlights": [],
+      "position": "Managing MySQL Databases, DRBD",
+      "startDate": "2009-03-31",
+      "summary": "Managing MySQL Databases, DRBD, Oracle  at Online Buddies, Inc.",
+      "website": "https://www.linkedin.com/company/online-buddies-inc./"
+    },
+    {
+      "company": "FM Global",
+      "endDate": "2009-04-30",
+      "highlights": [],
+      "position": "Database Consulting",
+      "startDate": "2009-01-31",
+      "summary": "Implementing Oracle Rman at FM Global",
+      "website": "https://www.linkedin.com/company/fm-global/"
+    },
+    {
+      "company": "Athletes' Performance",
+      "endDate": "2008-11-30",
+      "highlights": [],
+      "position": "Senior Database Architect",
+      "startDate": "2008-07-31",
+      "summary": "Senior Database Architect at Athletes' Performance. Design and implementation of MySQL OLTP and OLAP databases. MySQL HA (high availability) design and deployment using Multi Master Replications and DRBD. MySQL performance tuning and administration. Implemented MySQL backup and recovery using INNODB backup utility.",
+      "website": "https://www.linkedin.com/company/exos/"
+    },
+    {
+      "company": "NYISO",
+      "endDate": "2008-07-31",
+      "highlights": [],
+      "position": "Architecture/Database Consultant",
+      "startDate": "2008-01-31",
+      "summary": "www.nyiso.com\nOracle Database physical/logical architecture. Database design and deployment. Oracle RAC, IBM PSeries, Tru64. Oracle Financials 11.5.12 System Administration, Database administration.",
+      "website": "https://www.linkedin.com/company/nyiso/"
+    },
+    {
+      "company": "Xerox, Inc. Albany, NY",
+      "endDate": "2007-12-31",
+      "highlights": [],
+      "position": "Database Manager",
+      "startDate": "2006-02-28",
+      "summary": "Xerox Global Services. Database/ERP/Datawarehouse Applications Management and Deployment. Developed and Implemented Logical and Technical applications and data warehouse architecture. Implementation of recommendations resulted in improvements of applications uptime and performance. Oracle Applications Rel 11i Oracle Database 10.2 Oracle Database 10.1.0.4 Data Guard implementation and deployment. Supported Development and Functional Teams. Implemented infrastructure monitoring systems and monitoring processes/plans, implemented and deployed Change Management System. Implemented database ERP Applications Change Management and deployment strategy. Participated. Proposed and implemented Organizational Redesign and Restructuring aimed at improving IT management efficiency.",
+      "website": "https://www.linkedin.com/company/xerox/"
+    },
+    {
+      "company": "24 Hour Fitness",
+      "endDate": "2006-01-31",
+      "highlights": [],
+      "position": "Lead Applications Manager",
+      "startDate": "2005-02-28",
+      "summary": "Managed Applications Support team. Developed and implemented applications and database management approach and on-call schedule that reduced teams’ overtime hours, actively implemented flextime while significantly improving applications/databases uptime and reliability. Implemented team members training program designed to achieve Oracle Certification for the databases and development team members. Team was responsible for several Oracle Applications 11i instances, Peoplesoft applications and custom developed Club Management Applications. Developed applications Logical and Physical architecture. Implemented database/applications management policies and procedures. Proposed and implemented Change Management system – that substantially improved systems reliability and reduced downtime. DBA team managed physical infrastructure that comprised of IBM P Series/AIX, Red Hat Linux, Oracle Database 10g, Oracle Applications 11i, Peoplesoft. Developed SOX financial system compliance program.",
+      "website": "https://www.linkedin.com/company/24-hour-fitness/"
+    },
+    {
+      "company": "Audio Audit",
+      "endDate": "2005-01-31",
+      "highlights": [],
+      "position": "Manager Database Operations",
+      "startDate": "2003-01-31",
+      "summary": "Developed Logical and Physical databases architecture. Proposed and implemented OTRS Change Management System. Developed Change Management policies and controls. OTRS implementation resulted in additional improvement of production systems uptime. Implemented Oracle Database Rel. 9.2 Advanced Replication. Proposed and implemented infrastructure migration project from Oracle environments and PHP to MySql databases and JBOSS. Developed migrations and application development plans. Designed logical and physical applications architecture. Proposed project reduced license and administration costs resulting in $3M reduction of costs while significantly improving applications uptime and reliability. Managed teams of developers and database administrators.",
+      "website": ""
+    },
+    {
+      "company": "GE",
+      "endDate": "2002-12-31",
+      "highlights": [],
+      "position": "Project Manager – Technical Architecture",
+      "startDate": "2002-07-31",
+      "summary": "GEFA Server consolidation project. The goal of the project was to consolidate strategic business systems on Sun Fire platform from HP-UX, improve performance and increase MTBF for the following applications: \nECS - Enterprise claims systems, custom application. \nEWD - Enterprise wide disbursements, custom developed application \nOracle Financials, 250 GB Oracle Financials (817 database), Oracle Financial Analyzer and Oracle Express. \n\nAs project manager developed project planning and deployment strategy. Developed following documentation: Technical Architecture (source), Technical Architecture (target), Detailed Migration and Contingency Plan, setup, porting and deployment documentation for ECS, EWD and Oracle Financials. Coordinated development teams.",
+      "website": "https://www.linkedin.com/company/ge/"
+    },
+    {
+      "company": "Engineered Materials Solutions",
+      "endDate": "2002-04-30",
+      "highlights": [],
+      "position": "Project Manager Technology/Architecture",
+      "startDate": "2001-11-30",
+      "summary": "Developed Oracle Applications ERP implementation roadmap and plan. Developed Enterprise Resource Planning technical architecture and deployment plan. Gathered business requirements, developed and deployed hardware and network architecture to support ERP Oracle Applications and supporting environments. As part of technical architecture part of the project performed hardware platform selection (Sun Sparc), hardware and network sizing. Configured and coordinated installation Of Sun Operating system (5.8) and Veritas Foundation Suite.). Developed and implemented ERP Infrastructure administration policies and procedures. Developed and implemented IT Change management policies and procedures.  Supervised and coordinated teams of Oracle developers, database administrators and user support organization.",
+      "website": ""
+    },
+    {
+      "company": "Texas Instruments",
+      "endDate": "2001-11-30",
+      "highlights": [],
+      "position": "Oracle Applications Deployment",
+      "startDate": "2000-03-31",
+      "summary": "Developed ERP Implementation Technical Architecture Roadmap.  Developed ERP technical and functional architecture and Change Management policies and procedures.  Performed Oracle Applications hardware sizing and configuration. Prepared and administered Oracle Applications environment for Go-Live project. Developed procedures for duplicating Oracle Applications production environment for test and development. Developed backup and recovery strategy using Oracle Recovery manager for Oracle Applications database/executables. Developed Oracle Application/Database administration policies and procedures. Prepared and executed DRP policies and procedures. Worked with teams of Oracle Developers and  DBA’s .",
+      "website": "https://www.linkedin.com/company/texas-instruments/"
+    },
+    {
+      "company": "Oracle Corporation",
+      "endDate": "1999-03-31",
+      "highlights": [],
+      "position": "Managing/Principal",
+      "startDate": "1996-09-30",
+      "summary": "Managed an Oracle Applications and Oracle GEMMS Technical Architecture Project Supervised team of six consultants. Assisted clients in the hardware and operating platform selection process, performed hardware and network (WAN, MAN, LAN) sizing and configuration. Conducted technical presentations and requirements definition sessions. Developed project plans and schedules",
+      "website": "https://www.linkedin.com/company/oracle/"
+    },
+    {
+      "company": "JBS Corporation",
+      "endDate": "1996-08-31",
+      "highlights": [],
+      "position": "Principal Consultant",
+      "startDate": "1990-09-30",
+      "summary": "Principal Consultant for mid range ERP Applications Implementations and deployments. Solomon Accounting, Great Plains, Real World, Mas 90. Gather business requirements, developed project roadmap documentation. Performed ERP suited installations, configurations and deployments. Managed team of five consultants.",
+      "website": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Six Sigma",
+      "area": "Yelow Belt",
+      "studyType": "Green Belt",
+      "startDate": "2007-12-31",
+      "endDate": "2007-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "City University of Seattle",
+      "area": "Accounting",
+      "studyType": "Bachelors",
+      "startDate": "1993-12-31",
+      "endDate": "1997-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Oracle Consulting Bootcamp",
+      "area": "Oracle Consulting Bootcamp",
+      "studyType": "",
+      "startDate": "1996-12-31",
+      "endDate": "1996-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Becker CPA Review for Academic Achievement",
+      "date": "1996-06-30",
+      "awarder": "Becker CPA Review",
+      "summary": "Becker CPA Review for Academic Achievement "
+    }
+  ],
+  "publications": [
+    {
+      "name": "Battle of the Titans – Virident vs Fusion IO in MySQL/ MariaDB tests",
+      "publisher": "SpringbokSQL Inc.",
+      "releaseDate": "2014-10-17",
+      "website": "http://springboksql.com/blog/battle-titans-virident-vs-fusion-io-mysql-mariadb-tests/",
+      "summary": "Comparing two leading PCI flash vendors for MySQL/MariaDB database performance Virident vs. Fusion IO"
+    },
+    {
+      "name": "MySQL MHA vs Contnuent Tungsten comparison",
+      "publisher": "AccelerationDB",
+      "releaseDate": "2012-05-03",
+      "website": "http://alexalexander.blogspot.com/2012/05/mysql-mha-vs-continuent-tungsten.html",
+      "summary": "Comparing two leading MySQL High Availability solutions - Continuent Tungsten and MySQL MHA. Features, benefits, pros and cons."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL Cluster",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle RAC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apple",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Suse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuent",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL High Availability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Warehousing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Percona Cluster",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Akiban",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Intelligence",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Postgres",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MariaDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "INNODB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Red Hat Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RedHat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "streaming replication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL NDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Documentation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "slony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SuSe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Requirements Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Performance Tuning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "bucardo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DRBD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Migration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cassandra",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tungsten",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "High Availability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "InnoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pentaho",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL Replication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL MHA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hypertable",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Galera",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL master master",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Sumeet Keswani",
+      "reference": "Alex has significant knowledgeable of application and database best practices; which he successfully used in the design and deployment of the database product. His deep insights were invaluable in the product design process. Alex performed “proof of concepts” and engaged potential customers successfully; and turned the customer feedback into product improvements."
+    },
+    {
+      "name": "Jim O'Neill",
+      "reference": "Alex is a master of MySQL.  He has knowledge of advanced configurations and complex setups that can handle the most demanding environments.  He has extensive knowledge of linux and mysql as well as various data-mining and etl tools."
+    },
+    {
+      "name": "Kevin Hoeschele",
+      "reference": "Alex is very knowledgeable of databases. He was instrumental in increasing stability in our complex network of replicating MySQL servers. I have learned more then a few MySQL tricks while debugging problems with him.  Alex is a great guy to have around the office, always in a positive mood and with an interesting story to tell"
+    },
+    {
+      "name": "Jessica Thrasher",
+      "reference": "Alex came on board to help us prepare for a global rollout of our new platform. His quick thinking and depth of MySQL knowledge were invaluable during this stressful time period. Alex is very responsive and takes direction well-  I enjoyed having him on the team."
+    },
+    {
+      "name": "Yuting Grill",
+      "reference": "Alex was hired as a consultant for the RMAN project at FM Global.  He was very knowledgeable and easy to work with.  With his help, we were able to implement the RMAN cold and hot backups smoothly and quickly."
+    },
+    {
+      "name": "John Leech",
+      "reference": "I had the great pleasure of working with Alex at Athletes Performance.  You can always count on Alex to help you crack a smile.  His attitude towards being a great team player and his magnetic personality all led to Alex becoming a strong part of the office culture.  His desire to stay at the top of his game is clear as Alex is always willing to offer a fresh perspective and creative ways to push the envelope."
+    },
+    {
+      "name": "Elizabeth Raymond  (she/her/hers)",
+      "reference": "It truly was a pleasure working with Alex while at Athletes' Performance.  He exudes the core culture our organization represents- intelligent, humble and passionate.  He is extremely knowledgeable when it comes to his field, and was helpful with any questions or challenges I had sourcing for candidates in his team."
+    },
+    {
+      "name": "Jon Zerden",
+      "reference": "I had the opportunity to work with Alex during his tenure at Athletes’ Performance.  Not only is Alex is an expert in all things database, he is also more than willing to jump in and learn new and different technologies.  Alex is an asset to any organization in need of OLTP and OLAP expertise."
+    },
+    {
+      "name": "Durjoy (Ace) Bhattacharjya",
+      "reference": "Alex is clearly very technically qualified in Databases Architecture, but that's not what makes him special. He's a team player, he's great at sharing knowledge and can always be relied to lend a helpful hand.  \r\n\r\nAnd besides, how many Harley-riding / ski-instructor Database Architects are there?"
+    },
+    {
+      "name": "Sushil Kumar",
+      "reference": "Alex is technically sound in his knowledge of database technologies. He keeps the longer term strategic objectives in mind when recommending/evaluating tools and technologies and is a good sounding board, for ideas and thoughts. He is a conscientious employee who will do whatever it takes to get the job done right and produce high quality results."
+    }
+  ]
+}
